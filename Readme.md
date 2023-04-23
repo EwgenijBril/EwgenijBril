@@ -4,37 +4,39 @@
 <!-- <h3 align="center">Frontend Web Developer</h3> -->
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Stani+Wills+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=StaniWills&label=Profile%20views&color=blueviolet&style=flat" alt="StaniWills" /> </p>
 </div>
 
-### **📧 📲  Contact Info**   
+### **📧 📲 Contact Info**
 
-<div align="left">  
+<div align="left">
 
-**E-mail:** staniwills.info@gmail.com  <br/>
-**Telegram:** [StaniWills](https://t.me/StaniWills) <br/>
-**GitHub:** [StaniWills](https://github.com/StaniWills) <br/>
+**E-mail:** staniwills.info@gmail.com <br/>
+**Telegram:** [EwgenijBril](https://t.me/StaniWills) <br/>
+**GitHub:** [EwgenijBril](https://github.com/StaniWills) <br/>
 **Linkedin:** [Stani Wilhelm](https://www.linkedin.com/in/stani-wills/)</div>
 
-### **🗂 🗄  Summary**
+### **🗂 🗄 Summary**
 
 <div align="left">  
 Initial front-end developer recently graduated, experience supporting and creating web pages. Looking for new opportunities and challenges, to create more accurate and efficient code or to improve existing products and solve critical infrastructure issues that will expand my skill set.<br/>
 Most of all, I want to create and develop an online service that lets freelancers and everyone else know what coffee shops are available around here and where there are open spots ⚡ ))<br/>
 </div>
 
-### **💻 🔭  Hard Skills**
+### **💻 🔭 Hard Skills**
 
 <!-- <div align="left">
 <a href="https://www.codewars.com/users/StaniWills" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/staniwills/badges/small" alt="codewars"/></a></div>
 <div align="left"> -->
 
-● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Responsive Design * Bootstrap * Typescript * Node.js ... <br/>
-● Frontend-Prof : React * Redux * Rest API * GraphQL * Gulp * Webpack ...<br/>
-● Database : MySQL * MongoDB * PostgreSQL ... <br/>
-● PM Tools : Git * Github * Linux * Trello * VS Code * IntelliJ ... <br/>
-● Others : Figma * Adobe XD * Photoshop * Adobe Illustrator * Webflow ...<br/>
+● Frontend-Basic : HTML/HTML5 _ CSS/SCSS _ Javascript _ Responsive Design _ Bootstrap _ Typescript _ Node.js ... <br/>
+● Frontend-Prof : React _ Redux _ Rest API _ GraphQL _ Gulp _ Webpack ...<br/>
+● Database : MySQL _ MongoDB _ PostgreSQL ... <br/>
+● PM Tools : Git _ Github _ Linux _ Trello _ VS Code _ IntelliJ ... <br/>
+● Others : Figma _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow ...<br/>
 👉 📖... learning continues<br/><br/>
+
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -51,6 +53,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 <div align="left">
 
 ![snake gif](https://github.com/StaniWills/StaniWills/blob/main/github-contribution-grid-snake.svg)
+
 </div>
 
 </div>
@@ -66,7 +69,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 ### **🙋‍♂️ 🤝 Soft Skills**
 
 - Quick learning curve<br/>
-- I love to google<br/>  
+- I love to google<br/>
 - Responsibility<br/>
 - Fast problem solving<br/>
 - Openness<br/>
@@ -74,7 +77,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 ### **📚 🎓 Education/ Courses**
 
-- Frontend Web Developer Course on the [Tel-Ran](<https://tel-ran.de>)
+- Frontend Web Developer Course on the [Tel-Ran](https://tel-ran.de)
 - Web Developer Course (HTML, CSS, BEM, SASS) on the [Udemy](https://www.udemy.com/course/javascript_full/learn/lecture/14328446)
 - JavaScript + React Course on the [Udemy](https://www.udemy.com/course/javascript_full/)
 - Practical JavaScript - Advanced Level [Udemy](https://www.udemy.com/course/javascript_practice/learn/lecture/17690944?start=0#overview)
@@ -93,8 +96,8 @@ Most of all, I want to create and develop an online service that lets freelancer
 - English - A2 (I learn English and improve my lever)
 - German - B2
 - Russian - native
-<br/><br/>
-❤️... to be coninued<br/>
+  <br/><br/>
+  ❤️... to be coninued<br/>
 
 <!-- 🌱 I’m currently learning ...HTML, CSS, JS, React </br>
 👯 I’m looking to collaborate on ...</br>
