@@ -3,9 +3,9 @@
 
 <!-- <h3 align="center">Frontend Web Developer</h3> -->
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Stani+Wills+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Ewgenij+Bril+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=StaniWills&label=Profile%20views&color=blueviolet&style=flat" alt="StaniWills" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=EwgenijBril&label=Profile%20views&color=blueviolet&style=flat" alt="StaniWills" /> </p>
 </div>
 
 ### **📧 📲 Contact Info**
@@ -13,9 +13,9 @@
 <div align="left">
 
 **E-mail:** staniwills.info@gmail.com <br/>
-**Telegram:** [EwgenijBril](https://t.me/StaniWills) <br/>
-**GitHub:** [EwgenijBril](https://github.com/StaniWills) <br/>
-**Linkedin:** [Stani Wilhelm](https://www.linkedin.com/in/stani-wills/)</div>
+**Telegram:** [EwgenijBril](https://t.me/EwgenijBril) <br/>
+**GitHub:** [EwgenijBril](https://github.com/EwgenijBril) <br/>
+**Linkedin:** [EwgenijBril](https://www.linkedin.com/in/ewgenij-bril/)</div>
 
 ### **🗂 🗄 Summary**
 
@@ -52,15 +52,15 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 <div align="left">
 
-![snake gif](https://github.com/StaniWills/StaniWills/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EwgenijBril/EwgenijBril/blob/main/github-contribution-grid-snake.svg)
 
 </div>
 
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StaniWills&show_icons=true&locale=en&layout=compact" width="240"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EwgenijBril&show_icons=true&locale=en&layout=compact" width="240"
         height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=StaniWills&show_icons=true&locale=en" width="270" height="150"
+<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="270" height="150"
         />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniWills&&layout=compact" width="285" height="150"
       alt="" /> -->
