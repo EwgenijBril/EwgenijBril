@@ -12,8 +12,8 @@
 
 <div align="left">
 
-**E-mail:** staniwills.info@gmail.com <br/>
-**Telegram:** [EwgenijBril](https://t.me/EwgenijBril) <br/>
+**E-mail:** ewgenijbril425@gmail.com <br/>
+**Telegram:** [EwgenijBril](https://web.telegram.org/k/) <br/>
 **GitHub:** [EwgenijBril](https://github.com/EwgenijBril) <br/>
 **Linkedin:** [EwgenijBril](https://www.linkedin.com/in/ewgenij-bril/)</div>
 
