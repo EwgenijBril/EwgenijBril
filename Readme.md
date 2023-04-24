@@ -13,7 +13,6 @@
 <div align="left">
 
 **E-mail:** ewgenijbril425@gmail.com <br/>
-**Telegram:** [EwgenijBril](https://web.telegram.org/k/) <br/>
 **GitHub:** [EwgenijBril](https://github.com/EwgenijBril) <br/>
 **Linkedin:** [EwgenijBril](https://www.linkedin.com/in/ewgenij-bril/)</div>
 
@@ -30,13 +29,14 @@ Most of all, I want to create and develop an online service that lets freelancer
 <a href="https://www.codewars.com/users/StaniWills" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/staniwills/badges/small" alt="codewars"/></a></div>
 <div align="left"> -->
 
-● Frontend-Basic : HTML/HTML5 _ CSS/SCSS _ Javascript _ Responsive Design _ Bootstrap _ Typescript _ Node.js ... <br/>
-● Frontend-Prof : React _ Redux _ Rest API _ GraphQL _ Gulp _ Webpack ...<br/>
-● Database : MySQL _ MongoDB _ PostgreSQL ... <br/>
-● PM Tools : Git _ Github _ Linux _ Trello _ VS Code _ IntelliJ ... <br/>
-● Others : Figma _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow ...<br/>
+● Frontend-Basic : HTML/HTML5 _ CSS _ Javascript _ Responsive Design _ Bootstrap ... <br/>
+● Frontend-Prof : React _ Redux _ Rest API _ Node.js ...<br/>
+● Database : MySQL _ MongoDB ... <br/>
+● PM Tools : Git _ Github _ Linux _ VS Code _ IntelliJ ... <br/>
+● Others : Figma \_ Jira ...<br/>
 👉 📖... learning continues<br/><br/>
 
+ <!-- _ Typescript _  _ PostgreSQL _ Trello _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow  GraphQL _ Gulp _ Webpack -->
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
