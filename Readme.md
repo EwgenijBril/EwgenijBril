@@ -55,7 +55,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 👉 📖... learning continues<br/><br/>
 
-&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg" alt="figma" width="40" height="40"/> </a>
+&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 </div>
 <div align="center">
