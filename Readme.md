@@ -33,7 +33,6 @@ Most of all, I want to create and develop an online service that lets freelancer
 ● Database : MySQL _ MongoDB ... <br/>
 ● PM Tools : Git _ Github _ Linux _ VS Code _ IntelliJ ... <br/>
 ● Others : Figma \_ Jira ...<br/>
-👉 📖... learning continues<br/><br/>
 
  <!-- _ Typescript _  _ PostgreSQL _ Trello _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow  GraphQL _ Gulp _ Webpack -->
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -53,6 +52,10 @@ Most of all, I want to create and develop an online service that lets freelancer
 ![snake gif](https://github.com/EwgenijBril/EwgenijBril/blob/main/github-contribution-grid-snake.svg)
 
 </div>
+
+👉 📖... learning continues<br/><br/>
+
+&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.codeandchaos.com%2Fstatic%2Fimages%2Flogos%2Ftypescript.jpg&lr=109595&pos=4&rpt=simage&text=typescript.svg" alt="figma" width="40" height="40"/> </a>
 
 </div>
 <div align="center">
