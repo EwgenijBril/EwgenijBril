@@ -35,22 +35,22 @@ Most of all, I want to create and develop an online service that lets freelancer
 ● Others: Figma \_ Jira ...<br/>
 
  <!-- _ Typescript _  _ PostgreSQL _ Trello _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow  GraphQL _ Gulp _ Webpack -->
-<p>&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
-&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;
-&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-&nbsp;<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;<br/><br/>
+<p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><br/><br/>
 
 ● Working practice: Docker \_ TailWind.css \_ NEXT.js ...<br/>
-&nbsp;<a><img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/></a>&nbsp;
-&nbsp;<a><img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/></a>&nbsp;
-&nbsp;<a><img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/></a>&nbsp;
+<a><img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/></a>
+<a><img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/></a>
+<a><img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/></a>
 
 <div align="left">
 
@@ -59,16 +59,16 @@ Most of all, I want to create and develop an online service that lets freelancer
 </div>
 
 👉 📖... learning continues<br/>
-&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
-&nbsp;<a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
-&nbsp;<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>&nbsp;
-&nbsp;<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+<a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>
+<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>
+<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>
 
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EwgenijBril&show_icons=true&locale=en&layout=compact" width="240"
         height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="270" height="150"
+<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="240" height="150"
         />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniWills&&layout=compact" width="285" height="150"
       alt="" /> -->
