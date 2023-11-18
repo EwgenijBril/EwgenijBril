@@ -49,11 +49,11 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 ● Working practice: TailWind.css \_ NEXT.js ...<br/>
 &nbsp;<a><img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="40" height="40"/></a>&nbsp;
+&nbsp;<a><img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/></a>&nbsp;
+&nbsp;<a><img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="40" height="40"/></a>&nbsp;
 
 <div align="left">
-
 ![snake gif](https://github.com/EwgenijBril/EwgenijBril/blob/main/github-contribution-grid-snake.svg)
-
 </div>
 
 👉 📖... learning continues<br/><br/>
