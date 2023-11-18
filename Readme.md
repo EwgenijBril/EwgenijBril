@@ -60,11 +60,8 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 👉 📖... learning continues<br/>
 &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
-
 &nbsp;<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>&nbsp;
-&nbsp;
-<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
-
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
 &nbsp;<a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
 
 </div>
