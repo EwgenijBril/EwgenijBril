@@ -57,7 +57,6 @@ Most of all, I want to create and develop an online service that lets freelancer
 ![snake gif](https://github.com/EwgenijBril/EwgenijBril/blob/main/github-contribution-grid-snake.svg)
 
 </div>
-
 👉 📖... learning continues<br/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>
