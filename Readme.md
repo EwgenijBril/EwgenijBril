@@ -28,11 +28,12 @@ Most of all, I want to create and develop an online service that lets freelancer
 <a href="https://www.codewars.com/users/StaniWills" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/staniwills/badges/small" alt="codewars"/></a></div>
 <div align="left"> -->
 
-● Frontend-Basic : HTML/HTML5 _ CSS _ Javascript _ Responsive Design _ Bootstrap ... <br/>
-● Frontend-Prof : React _ Redux _ Rest API _ Node.js ...<br/>
-● Database : MySQL _ MongoDB ... <br/>
-● PM Tools : Git _ Github _ Linux _ VS Code _ IntelliJ ... <br/>
-● Others : Figma \_ Jira ...<br/>
+● Frontend-Basic: HTML/HTML5 _ CSS _ Javascript _ Responsive Design _ Bootstrap ... <br/>
+● Frontend-Prof: React _ Redux _ Rest API _ Node.js ...<br/>
+● Database: MySQL _ MongoDB ... <br/>
+● PM Tools: Git _ Github _ Linux _ VS Code _ IntelliJ ... <br/>
+● Others: Figma \_ Jira ...<br/>
+● Working practice: TailWind.css NEXT.js ...<br/>
 
  <!-- _ Typescript _  _ PostgreSQL _ Trello _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow  GraphQL _ Gulp _ Webpack -->
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
