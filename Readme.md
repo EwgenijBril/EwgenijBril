@@ -59,16 +59,16 @@ Most of all, I want to create and develop an online service that lets freelancer
 </div>
 
 👉 📖... learning continues<br/>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-<a > <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>
-<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>
-<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>
+<b><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a></b>
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>&nbsp;
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
 
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EwgenijBril&show_icons=true&locale=en&layout=compact" width="240"
         height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="240" height="150"
+<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="280" height="150"
         />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniWills&&layout=compact" width="285" height="150"
       alt="" /> -->
