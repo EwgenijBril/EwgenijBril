@@ -48,9 +48,9 @@ Most of all, I want to create and develop an online service that lets freelancer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><br/><br/>
 
 ● Working practice: Docker \_ TailWind.css \_ NEXT.js ...<br/>
-<a><img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/></a>
-<a><img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/></a>
-<a><img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/></a>
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>&nbsp;
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
+&nbsp;<a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
 
 <div align="left">
 
@@ -62,7 +62,6 @@ Most of all, I want to create and develop an online service that lets freelancer
 &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
 &nbsp;<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>&nbsp;
 &nbsp;<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
-&nbsp;<a> <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
 
 </div>
 <div align="center">
