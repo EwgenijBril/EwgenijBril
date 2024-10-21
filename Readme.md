@@ -37,7 +37,7 @@ Most of all, I want to create and develop an online service that lets freelancer
  <!-- _ Typescript _  _ PostgreSQL _ Trello _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow  GraphQL _ Gulp _ Webpack -->
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-&nbsp;<a> <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
+&nbsp;<a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt=tailwind width="60" height="60"/> </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
