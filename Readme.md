@@ -42,7 +42,8 @@ Most of all, I want to create and develop an online service that lets freelancer
 &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 &nbsp;<a> <img src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23FFFFFF" alt=next width="60" height="60"/> </a>&nbsp;
-<br/> <br/>
+<br/> 
+<br/>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://www.prisma.io/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://github.com/prplx/svg-logos/blob/master/svg/Prisma.svg" alt="prisma" width="40" height="40" color="white"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -54,6 +55,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><br/><br/>
 
 ● Working practice: Docker ...<br/>
+<br/>
 &nbsp;<a> <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" alt=docker width="40" height="40"/> </a>&nbsp;
 <div align="left">
 
