@@ -32,6 +32,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 ● Frontend-Prof: React _ Next.js _ Typescript _ Redux _ Prisma _ Rest API _ Node.js ...<br/>
 ● Database: MySQL _ MongoDB _ PostgreSQL ... <br/>
 ● PM Tools: Git _ Github _ Linux _ VS Code _ IntelliJ ... <br/>
+● CMS: WordPess _ Contao _ Typo3 ... <br/>
 ● Others: Figma \_ Jira ...<br/>
 
  <!-- _ Typescript _  _ PostgreSQL _ Trello _ Adobe XD _ Photoshop _ Adobe Illustrator _ Webflow  GraphQL _ Gulp _ Webpack -->
@@ -62,10 +63,8 @@ Most of all, I want to create and develop an online service that lets freelancer
 ![snake gif](https://github.com/EwgenijBril/EwgenijBril/blob/main/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EwgenijBril&show_icons=true&locale=en&layout=compact" width="240"
-        height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="270" height="150"
-        />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EwgenijBril&show_icons=true&locale=en&layout=compact" width="240" height="150" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=EwgenijBril&show_icons=true&locale=en" width="270" height="150"/>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniWills&&layout=compact" width="285" height="150"
       alt="" /> -->
 </div>
